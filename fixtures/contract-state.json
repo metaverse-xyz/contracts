@@ -1,0 +1,27 @@
+{
+  "name": "Metaverse",
+  "ticker": "MTV",
+  "balances": {
+    "Ky1c1Kkt-jZ9sY1hvLF5nCf6WWdBhIU5Un_BMYh-t3c": 10000000
+  },
+  "vault": {
+    "Ky1c1Kkt-jZ9sY1hvLF5nCf6WWdBhIU5Un_BMYh-t3c": [{
+      "balance": 1000,
+      "end": 100,
+      "start": 0
+    }]
+  },
+  "votes": [],
+  "roles": {},
+  "settings": [
+    ["quorum", 0.5],
+    ["support", 0.5],
+    ["voteLength", 2000],
+    ["lockMinLength", 5],
+    ["lockMaxLength", 720],
+    ["curator", "Ky1c1Kkt-jZ9sY1hvLF5nCf6WWdBhIU5Un_BMYh-t3c"],
+    ["architect", "Ky1c1Kkt-jZ9sY1hvLF5nCf6WWdBhIU5Un_BMYh-t3c"]
+  ],
+  "systems": [],
+  "entities": []
+}

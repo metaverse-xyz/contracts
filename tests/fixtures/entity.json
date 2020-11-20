@@ -1,0 +1,22 @@
+{
+  "id": "clara",
+  "components": [
+    {
+      "id": "Avatar",
+      "name": "Clara"
+    },
+    {
+      "id": "Tradable",
+      "available": true,
+      "price": 300
+    },
+    {
+      "id": "Ownable",
+      "owner": "uhE-QeYS8i4pmUtnxQyHD7dzXFNaJ9oMK-IM-QPNY6M"
+    },
+    {
+      "id": "Created",
+      "creator": "pplpleasr"
+    }
+  ]
+}

@@ -1,4 +1,3 @@
-import _ from "lodash";
 import {nftSystem} from "../systems/nft-system";
 import {createContractExecutionEnvironment} from '../swglobal/contract-load';
 import {addresses, arweave, exampleEntity, state} from "./setup";
